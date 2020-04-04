@@ -22,11 +22,8 @@ public class Readexcel {
 		Cell c = r.getCell(1);
 		System.out.println(c);
 		
-		
-		
-		
-		
-		
+// github check	
+			
 	}
 	
 	
